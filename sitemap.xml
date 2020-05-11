@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://riseofthecontainers.github.io/docker/</loc>
+  </url>
+  
+  <url>
+    <loc>https://riseofthecontainers.github.io/docker/01-why/</loc>
+  </url>
+  
+  <url>
+    <loc>https://riseofthecontainers.github.io/docker/02-intro/</loc>
+  </url>
+  
+  <url>
+    <loc>https://riseofthecontainers.github.io/docker/02-z-exercise-1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://riseofthecontainers.github.io/docker/03-dockerfile/</loc>
+  </url>
+  
+  <url>
+    <loc>https://riseofthecontainers.github.io/docker/03-z-exercise-2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://riseofthecontainers.github.io/docker/04-layers/</loc>
+  </url>
+  
+  <url>
+    <loc>https://riseofthecontainers.github.io/docker/04-z-exercise-3/</loc>
+  </url>
+  
+  <url>
+    <loc>https://riseofthecontainers.github.io/docker/05-multistage/</loc>
+  </url>
+  
+  <url>
+    <loc>https://riseofthecontainers.github.io/docker/06-tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://riseofthecontainers.github.io/docker/07-recap/</loc>
+  </url>
+  
+  <url>
+    <loc>https://riseofthecontainers.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://riseofthecontainers.github.io/credits/</loc>
+  </url>
+  
+  <url>
+    <loc>https://riseofthecontainers.github.io/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://riseofthecontainers.github.io/</loc>
+  </url>
+  
+</urlset>

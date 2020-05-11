@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome to online learning couuse Rise of the Containers on Rise of the Containers</title>
+    <link>https://riseofthecontainers.github.io/</link>
+    <description>Recent content in Welcome to online learning couuse Rise of the Containers on Rise of the Containers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2020 sunitparekh.in</copyright>
+    
+	<atom:link href="https://riseofthecontainers.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Containers</title>
+      <link>https://riseofthecontainers.github.io/docker/01-why/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://riseofthecontainers.github.io/docker/01-why/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Docker Basics</title>
+      <link>https://riseofthecontainers.github.io/docker/02-intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://riseofthecontainers.github.io/docker/02-intro/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Exercise 1</title>
+      <link>https://riseofthecontainers.github.io/docker/02-z-exercise-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://riseofthecontainers.github.io/docker/02-z-exercise-1/</guid>
+      <description>GETTING UPLOADED&amp;hellip; </description>
+    </item>
+    
+    <item>
+      <title>Dockerfile</title>
+      <link>https://riseofthecontainers.github.io/docker/03-dockerfile/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://riseofthecontainers.github.io/docker/03-dockerfile/</guid>
+      <description>GETTING UPLOADED&amp;hellip; </description>
+    </item>
+    
+    <item>
+      <title>Exercise 2</title>
+      <link>https://riseofthecontainers.github.io/docker/03-z-exercise-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://riseofthecontainers.github.io/docker/03-z-exercise-2/</guid>
+      <description>GETTING UPLOADED&amp;hellip; </description>
+    </item>
+    
+    <item>
+      <title>Image Layers</title>
+      <link>https://riseofthecontainers.github.io/docker/04-layers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://riseofthecontainers.github.io/docker/04-layers/</guid>
+      <description>GETTING UPLOADED&amp;hellip; </description>
+    </item>
+    
+    <item>
+      <title>Exercise 3</title>
+      <link>https://riseofthecontainers.github.io/docker/04-z-exercise-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://riseofthecontainers.github.io/docker/04-z-exercise-3/</guid>
+      <description>GETTING UPLOADED&amp;hellip; </description>
+    </item>
+    
+    <item>
+      <title>Multistage Builds</title>
+      <link>https://riseofthecontainers.github.io/docker/05-multistage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://riseofthecontainers.github.io/docker/05-multistage/</guid>
+      <description>GETTING UPLOADED&amp;hellip; </description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>https://riseofthecontainers.github.io/docker/06-tags/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://riseofthecontainers.github.io/docker/06-tags/</guid>
+      <description>GETTING UPLOADED&amp;hellip; </description>
+    </item>
+    
+    <item>
+      <title>Recap</title>
+      <link>https://riseofthecontainers.github.io/docker/07-recap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://riseofthecontainers.github.io/docker/07-recap/</guid>
+      <description>GETTING UPLOADED&amp;hellip; </description>
+    </item>
+    
+    <item>
+      <title>Credits</title>
+      <link>https://riseofthecontainers.github.io/credits/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://riseofthecontainers.github.io/credits/</guid>
+      <description>Thanks to ThoughtWorks for allowing to make this course available online. Contributors  Thanks to all colleagues at ThoughtWorks who worked with me while building this internal course. Special Thanks to Girish Verma, who worked hard with me in shaping this workshop to what we have today.
+ Website  Gihub Pages for Hosting Hugo Theme Learn Hugo  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,106 @@
+[
+{
+	"uri": "https://riseofthecontainers.github.io/docker/",
+	"title": "Docker",
+	"tags": [],
+	"description": "",
+	"content": "Module 1 Docker, the container runtime discover all about Docker, the container runtime\n  "
+},
+{
+	"uri": "https://riseofthecontainers.github.io/docker/01-why/",
+	"title": "Containers",
+	"tags": [],
+	"description": "",
+	"content": "   "
+},
+{
+	"uri": "https://riseofthecontainers.github.io/docker/02-intro/",
+	"title": "Docker Basics",
+	"tags": [],
+	"description": "",
+	"content": "   "
+},
+{
+	"uri": "https://riseofthecontainers.github.io/docker/02-z-exercise-1/",
+	"title": "Exercise 1",
+	"tags": [],
+	"description": "",
+	"content": "GETTING UPLOADED\u0026hellip; "
+},
+{
+	"uri": "https://riseofthecontainers.github.io/docker/03-dockerfile/",
+	"title": "Dockerfile",
+	"tags": [],
+	"description": "",
+	"content": "GETTING UPLOADED\u0026hellip; "
+},
+{
+	"uri": "https://riseofthecontainers.github.io/docker/03-z-exercise-2/",
+	"title": "Exercise 2",
+	"tags": [],
+	"description": "",
+	"content": "GETTING UPLOADED\u0026hellip; "
+},
+{
+	"uri": "https://riseofthecontainers.github.io/docker/04-layers/",
+	"title": "Image Layers",
+	"tags": [],
+	"description": "",
+	"content": "GETTING UPLOADED\u0026hellip; "
+},
+{
+	"uri": "https://riseofthecontainers.github.io/docker/04-z-exercise-3/",
+	"title": "Exercise 3",
+	"tags": [],
+	"description": "",
+	"content": "GETTING UPLOADED\u0026hellip; "
+},
+{
+	"uri": "https://riseofthecontainers.github.io/docker/05-multistage/",
+	"title": "Multistage Builds",
+	"tags": [],
+	"description": "",
+	"content": "GETTING UPLOADED\u0026hellip; "
+},
+{
+	"uri": "https://riseofthecontainers.github.io/docker/06-tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": "GETTING UPLOADED\u0026hellip; "
+},
+{
+	"uri": "https://riseofthecontainers.github.io/docker/07-recap/",
+	"title": "Recap",
+	"tags": [],
+	"description": "",
+	"content": "GETTING UPLOADED\u0026hellip; "
+},
+{
+	"uri": "https://riseofthecontainers.github.io/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://riseofthecontainers.github.io/credits/",
+	"title": "Credits",
+	"tags": [],
+	"description": "",
+	"content": "Thanks to ThoughtWorks for allowing to make this course available online. Contributors  Thanks to all colleagues at ThoughtWorks who worked with me while building this internal course. Special Thanks to Girish Verma, who worked hard with me in shaping this workshop to what we have today.\n Website  Gihub Pages for Hosting Hugo Theme Learn Hugo  "
+},
+{
+	"uri": "https://riseofthecontainers.github.io/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://riseofthecontainers.github.io/",
+	"title": "Welcome to online learning couuse Rise of the Containers",
+	"tags": [],
+	"description": "",
+	"content": "Welcome To learn magic of Kubernetes, you need to become magician. In this course we are going to learn Docker \u0026amp; Kubernetes. Most of the content is video tutorials and exercises. I highly recommend to do exercises and practice, to learn tech stuff hands-on is must.\nModules  Docker Kubernetes Objects \u0026amp; Workloads  "
+}]
