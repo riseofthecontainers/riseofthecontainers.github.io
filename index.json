@@ -53,28 +53,35 @@
 	"title": "Exercise 3",
 	"tags": [],
 	"description": "",
-	"content": "GETTING UPLOADED\u0026hellip; "
+	"content": "   "
 },
 {
 	"uri": "https://riseofthecontainers.github.io/docker/05-multistage/",
 	"title": "Multistage Builds",
 	"tags": [],
 	"description": "",
-	"content": "GETTING UPLOADED\u0026hellip; "
+	"content": "   "
+},
+{
+	"uri": "https://riseofthecontainers.github.io/docker/05-z-exercise-4/",
+	"title": "Exercise 4",
+	"tags": [],
+	"description": "",
+	"content": "No solution video as solution is already covered in multistage build session. "
 },
 {
 	"uri": "https://riseofthecontainers.github.io/docker/06-tags/",
 	"title": "Tags",
 	"tags": [],
 	"description": "",
-	"content": "GETTING UPLOADED\u0026hellip; "
+	"content": "   "
 },
 {
 	"uri": "https://riseofthecontainers.github.io/docker/07-recap/",
 	"title": "Recap",
 	"tags": [],
 	"description": "",
-	"content": "GETTING UPLOADED\u0026hellip; "
+	"content": "   "
 },
 {
 	"uri": "https://riseofthecontainers.github.io/categories/",

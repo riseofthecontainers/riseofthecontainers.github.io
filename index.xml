@@ -71,7 +71,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://riseofthecontainers.github.io/docker/04-z-exercise-3/</guid>
-      <description>GETTING UPLOADED&amp;hellip; </description>
+      <description>   </description>
     </item>
     
     <item>
@@ -80,7 +80,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://riseofthecontainers.github.io/docker/05-multistage/</guid>
-      <description>GETTING UPLOADED&amp;hellip; </description>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Exercise 4</title>
+      <link>https://riseofthecontainers.github.io/docker/05-z-exercise-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://riseofthecontainers.github.io/docker/05-z-exercise-4/</guid>
+      <description>No solution video as solution is already covered in multistage build session. </description>
     </item>
     
     <item>
@@ -89,7 +98,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://riseofthecontainers.github.io/docker/06-tags/</guid>
-      <description>GETTING UPLOADED&amp;hellip; </description>
+      <description>   </description>
     </item>
     
     <item>
@@ -98,7 +107,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://riseofthecontainers.github.io/docker/07-recap/</guid>
-      <description>GETTING UPLOADED&amp;hellip; </description>
+      <description>   </description>
     </item>
     
     <item>
