@@ -7,7 +7,19 @@
   </url>
   
   <url>
+    <loc>https://riseofthecontainers.github.io/k8s-workloads/</loc>
+  </url>
+  
+  <url>
     <loc>https://riseofthecontainers.github.io/docker/01-why/</loc>
+  </url>
+  
+  <url>
+    <loc>https://riseofthecontainers.github.io/k8s-workloads/01-architecture/</loc>
+  </url>
+  
+  <url>
+    <loc>https://riseofthecontainers.github.io/k8s-workloads/01-z-ex-1-minikube/</loc>
   </url>
   
   <url>
@@ -15,7 +27,27 @@
   </url>
   
   <url>
+    <loc>https://riseofthecontainers.github.io/k8s-workloads/02-objects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://riseofthecontainers.github.io/docker/02-y-metadata/</loc>
+  </url>
+  
+  <url>
     <loc>https://riseofthecontainers.github.io/docker/02-z-exercise-1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://riseofthecontainers.github.io/k8s-workloads/03-pods/</loc>
+  </url>
+  
+  <url>
+    <loc>https://riseofthecontainers.github.io/k8s-workloads/03-y-metadata/</loc>
+  </url>
+  
+  <url>
+    <loc>https://riseofthecontainers.github.io/k8s-workloads/03-z-ex-2-pod/</loc>
   </url>
   
   <url>
@@ -23,7 +55,31 @@
   </url>
   
   <url>
+    <loc>https://riseofthecontainers.github.io/k8s-workloads/04-replicasets/</loc>
+  </url>
+  
+  <url>
     <loc>https://riseofthecontainers.github.io/docker/03-z-exercise-2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://riseofthecontainers.github.io/k8s-workloads/04-z-ex-3-replicaset/</loc>
+  </url>
+  
+  <url>
+    <loc>https://riseofthecontainers.github.io/k8s-workloads/05-services/</loc>
+  </url>
+  
+  <url>
+    <loc>https://riseofthecontainers.github.io/k8s-workloads/05-y-ex-4-services/</loc>
+  </url>
+  
+  <url>
+    <loc>https://riseofthecontainers.github.io/k8s-workloads/05-z-ex-5-services/</loc>
+  </url>
+  
+  <url>
+    <loc>https://riseofthecontainers.github.io/k8s-workloads/06-deployments/</loc>
   </url>
   
   <url>
@@ -31,7 +87,35 @@
   </url>
   
   <url>
+    <loc>https://riseofthecontainers.github.io/k8s-workloads/06-z-ex-6-deployment/</loc>
+  </url>
+  
+  <url>
     <loc>https://riseofthecontainers.github.io/docker/04-z-exercise-3/</loc>
+  </url>
+  
+  <url>
+    <loc>https://riseofthecontainers.github.io/k8s-workloads/07-volumes-1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://riseofthecontainers.github.io/k8s-workloads/07-z-ex-7-hostpath/</loc>
+  </url>
+  
+  <url>
+    <loc>https://riseofthecontainers.github.io/k8s-workloads/07-volumes-2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://riseofthecontainers.github.io/k8s-workloads/07-z-ex-8-pv/</loc>
+  </url>
+  
+  <url>
+    <loc>https://riseofthecontainers.github.io/k8s-workloads/07-volumes-3/</loc>
+  </url>
+  
+  <url>
+    <loc>https://riseofthecontainers.github.io/k8s-workloads/07-z-ex-9-sc/</loc>
   </url>
   
   <url>

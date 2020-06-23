@@ -30,6 +30,16 @@
     </item>
     
     <item>
+      <title>Metadata Service Overview</title>
+      <link>https://riseofthecontainers.github.io/docker/02-y-metadata/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://riseofthecontainers.github.io/docker/02-y-metadata/</guid>
+      <description>Learn more about Metadata Service Overview used throught the course for exercise.
+  </description>
+    </item>
+    
+    <item>
       <title>Exercise 1</title>
       <link>https://riseofthecontainers.github.io/docker/02-z-exercise-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

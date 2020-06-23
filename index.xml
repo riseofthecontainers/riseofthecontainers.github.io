@@ -21,6 +21,24 @@
     </item>
     
     <item>
+      <title>Kubernetes Architecture</title>
+      <link>https://riseofthecontainers.github.io/k8s-workloads/01-architecture/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://riseofthecontainers.github.io/k8s-workloads/01-architecture/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Exercise 1</title>
+      <link>https://riseofthecontainers.github.io/k8s-workloads/01-z-ex-1-minikube/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://riseofthecontainers.github.io/k8s-workloads/01-z-ex-1-minikube/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
       <title>Docker Basics</title>
       <link>https://riseofthecontainers.github.io/docker/02-intro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -30,11 +48,58 @@
     </item>
     
     <item>
+      <title>Kubernetes Objects</title>
+      <link>https://riseofthecontainers.github.io/k8s-workloads/02-objects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://riseofthecontainers.github.io/k8s-workloads/02-objects/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Metadata Service Overview</title>
+      <link>https://riseofthecontainers.github.io/docker/02-y-metadata/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://riseofthecontainers.github.io/docker/02-y-metadata/</guid>
+      <description>Learn more about Metadata Service Overview used throught the course for exercise.
+  </description>
+    </item>
+    
+    <item>
       <title>Exercise 1</title>
       <link>https://riseofthecontainers.github.io/docker/02-z-exercise-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://riseofthecontainers.github.io/docker/02-z-exercise-1/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Pods</title>
+      <link>https://riseofthecontainers.github.io/k8s-workloads/03-pods/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://riseofthecontainers.github.io/k8s-workloads/03-pods/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Metadata Service Overview</title>
+      <link>https://riseofthecontainers.github.io/k8s-workloads/03-y-metadata/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://riseofthecontainers.github.io/k8s-workloads/03-y-metadata/</guid>
+      <description>Learn more about Metadata Service Overview used throught the course for exercise.
+  </description>
+    </item>
+    
+    <item>
+      <title>Exercise 2</title>
+      <link>https://riseofthecontainers.github.io/k8s-workloads/03-z-ex-2-pod/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://riseofthecontainers.github.io/k8s-workloads/03-z-ex-2-pod/</guid>
       <description>   </description>
     </item>
     
@@ -48,11 +113,65 @@
     </item>
     
     <item>
+      <title>Replicasets</title>
+      <link>https://riseofthecontainers.github.io/k8s-workloads/04-replicasets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://riseofthecontainers.github.io/k8s-workloads/04-replicasets/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
       <title>Exercise 2</title>
       <link>https://riseofthecontainers.github.io/docker/03-z-exercise-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://riseofthecontainers.github.io/docker/03-z-exercise-2/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Exercise 3</title>
+      <link>https://riseofthecontainers.github.io/k8s-workloads/04-z-ex-3-replicaset/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://riseofthecontainers.github.io/k8s-workloads/04-z-ex-3-replicaset/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Services</title>
+      <link>https://riseofthecontainers.github.io/k8s-workloads/05-services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://riseofthecontainers.github.io/k8s-workloads/05-services/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Exercise 4</title>
+      <link>https://riseofthecontainers.github.io/k8s-workloads/05-y-ex-4-services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://riseofthecontainers.github.io/k8s-workloads/05-y-ex-4-services/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Exercise 5</title>
+      <link>https://riseofthecontainers.github.io/k8s-workloads/05-z-ex-5-services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://riseofthecontainers.github.io/k8s-workloads/05-z-ex-5-services/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Deployments</title>
+      <link>https://riseofthecontainers.github.io/k8s-workloads/06-deployments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://riseofthecontainers.github.io/k8s-workloads/06-deployments/</guid>
       <description>   </description>
     </item>
     
@@ -66,11 +185,74 @@
     </item>
     
     <item>
+      <title>Exercise 6</title>
+      <link>https://riseofthecontainers.github.io/k8s-workloads/06-z-ex-6-deployment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://riseofthecontainers.github.io/k8s-workloads/06-z-ex-6-deployment/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
       <title>Exercise 3</title>
       <link>https://riseofthecontainers.github.io/docker/04-z-exercise-3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://riseofthecontainers.github.io/docker/04-z-exercise-3/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Volumes - emptyDir &amp; hostPath</title>
+      <link>https://riseofthecontainers.github.io/k8s-workloads/07-volumes-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://riseofthecontainers.github.io/k8s-workloads/07-volumes-1/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Exercise 7</title>
+      <link>https://riseofthecontainers.github.io/k8s-workloads/07-z-ex-7-hostpath/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://riseofthecontainers.github.io/k8s-workloads/07-z-ex-7-hostpath/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Volumes - PV &amp; PVC</title>
+      <link>https://riseofthecontainers.github.io/k8s-workloads/07-volumes-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://riseofthecontainers.github.io/k8s-workloads/07-volumes-2/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Exercise 8</title>
+      <link>https://riseofthecontainers.github.io/k8s-workloads/07-z-ex-8-pv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://riseofthecontainers.github.io/k8s-workloads/07-z-ex-8-pv/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Volumes - Storage Class</title>
+      <link>https://riseofthecontainers.github.io/k8s-workloads/07-volumes-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://riseofthecontainers.github.io/k8s-workloads/07-volumes-3/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Exercise 9</title>
+      <link>https://riseofthecontainers.github.io/k8s-workloads/07-z-ex-9-sc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://riseofthecontainers.github.io/k8s-workloads/07-z-ex-9-sc/</guid>
       <description>   </description>
     </item>
     

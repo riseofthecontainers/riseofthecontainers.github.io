@@ -7,8 +7,29 @@
 	"content": "Module 1 Docker, the container runtime discover all about Docker, the container runtime\n  "
 },
 {
+	"uri": "https://riseofthecontainers.github.io/k8s-workloads/",
+	"title": "Kubernetes Objects",
+	"tags": [],
+	"description": "",
+	"content": "Module 2 Kubernetes Objects \u0026amp; Workloads After Container Runtime, its time for deep dive into Container Orchestrator, Kubernetes.\n  "
+},
+{
 	"uri": "https://riseofthecontainers.github.io/docker/01-why/",
 	"title": "Containers",
+	"tags": [],
+	"description": "",
+	"content": "   "
+},
+{
+	"uri": "https://riseofthecontainers.github.io/k8s-workloads/01-architecture/",
+	"title": "Kubernetes Architecture",
+	"tags": [],
+	"description": "",
+	"content": "   "
+},
+{
+	"uri": "https://riseofthecontainers.github.io/k8s-workloads/01-z-ex-1-minikube/",
+	"title": "Exercise 1",
 	"tags": [],
 	"description": "",
 	"content": "   "
@@ -21,8 +42,43 @@
 	"content": "   "
 },
 {
+	"uri": "https://riseofthecontainers.github.io/k8s-workloads/02-objects/",
+	"title": "Kubernetes Objects",
+	"tags": [],
+	"description": "",
+	"content": "   "
+},
+{
+	"uri": "https://riseofthecontainers.github.io/docker/02-y-metadata/",
+	"title": "Metadata Service Overview",
+	"tags": [],
+	"description": "",
+	"content": "Learn more about Metadata Service Overview used throught the course for exercise.\n  "
+},
+{
 	"uri": "https://riseofthecontainers.github.io/docker/02-z-exercise-1/",
 	"title": "Exercise 1",
+	"tags": [],
+	"description": "",
+	"content": "   "
+},
+{
+	"uri": "https://riseofthecontainers.github.io/k8s-workloads/03-pods/",
+	"title": "Pods",
+	"tags": [],
+	"description": "",
+	"content": "   "
+},
+{
+	"uri": "https://riseofthecontainers.github.io/k8s-workloads/03-y-metadata/",
+	"title": "Metadata Service Overview",
+	"tags": [],
+	"description": "",
+	"content": "Learn more about Metadata Service Overview used throught the course for exercise.\n  "
+},
+{
+	"uri": "https://riseofthecontainers.github.io/k8s-workloads/03-z-ex-2-pod/",
+	"title": "Exercise 2",
 	"tags": [],
 	"description": "",
 	"content": "   "
@@ -35,8 +91,50 @@
 	"content": "   "
 },
 {
+	"uri": "https://riseofthecontainers.github.io/k8s-workloads/04-replicasets/",
+	"title": "Replicasets",
+	"tags": [],
+	"description": "",
+	"content": "   "
+},
+{
 	"uri": "https://riseofthecontainers.github.io/docker/03-z-exercise-2/",
 	"title": "Exercise 2",
+	"tags": [],
+	"description": "",
+	"content": "   "
+},
+{
+	"uri": "https://riseofthecontainers.github.io/k8s-workloads/04-z-ex-3-replicaset/",
+	"title": "Exercise 3",
+	"tags": [],
+	"description": "",
+	"content": "   "
+},
+{
+	"uri": "https://riseofthecontainers.github.io/k8s-workloads/05-services/",
+	"title": "Services",
+	"tags": [],
+	"description": "",
+	"content": "   "
+},
+{
+	"uri": "https://riseofthecontainers.github.io/k8s-workloads/05-y-ex-4-services/",
+	"title": "Exercise 4",
+	"tags": [],
+	"description": "",
+	"content": "   "
+},
+{
+	"uri": "https://riseofthecontainers.github.io/k8s-workloads/05-z-ex-5-services/",
+	"title": "Exercise 5",
+	"tags": [],
+	"description": "",
+	"content": "   "
+},
+{
+	"uri": "https://riseofthecontainers.github.io/k8s-workloads/06-deployments/",
+	"title": "Deployments",
 	"tags": [],
 	"description": "",
 	"content": "   "
@@ -49,8 +147,57 @@
 	"content": "   "
 },
 {
+	"uri": "https://riseofthecontainers.github.io/k8s-workloads/06-z-ex-6-deployment/",
+	"title": "Exercise 6",
+	"tags": [],
+	"description": "",
+	"content": "   "
+},
+{
 	"uri": "https://riseofthecontainers.github.io/docker/04-z-exercise-3/",
 	"title": "Exercise 3",
+	"tags": [],
+	"description": "",
+	"content": "   "
+},
+{
+	"uri": "https://riseofthecontainers.github.io/k8s-workloads/07-volumes-1/",
+	"title": "Volumes - emptyDir &amp; hostPath",
+	"tags": [],
+	"description": "",
+	"content": "   "
+},
+{
+	"uri": "https://riseofthecontainers.github.io/k8s-workloads/07-z-ex-7-hostpath/",
+	"title": "Exercise 7",
+	"tags": [],
+	"description": "",
+	"content": "   "
+},
+{
+	"uri": "https://riseofthecontainers.github.io/k8s-workloads/07-volumes-2/",
+	"title": "Volumes - PV &amp; PVC",
+	"tags": [],
+	"description": "",
+	"content": "   "
+},
+{
+	"uri": "https://riseofthecontainers.github.io/k8s-workloads/07-z-ex-8-pv/",
+	"title": "Exercise 8",
+	"tags": [],
+	"description": "",
+	"content": "   "
+},
+{
+	"uri": "https://riseofthecontainers.github.io/k8s-workloads/07-volumes-3/",
+	"title": "Volumes - Storage Class",
+	"tags": [],
+	"description": "",
+	"content": "   "
+},
+{
+	"uri": "https://riseofthecontainers.github.io/k8s-workloads/07-z-ex-9-sc/",
+	"title": "Exercise 9",
 	"tags": [],
 	"description": "",
 	"content": "   "

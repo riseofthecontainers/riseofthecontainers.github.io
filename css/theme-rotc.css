@@ -109,3 +109,13 @@ a:hover {
 #body .tags a.tag-link:before {
     border-right-color: var(--MENU-HEADER-BG-color);
 }
+
+.ytp-gradient-top {
+    background: linear-gradient(0, transparent, transparent) !important;
+    box-shadow: none !important;
+    border: none;
+ }
+
+video::-webkit-media-controls-panel {
+    background-image: linear-gradient(transparent, transparent) !important;
+}
