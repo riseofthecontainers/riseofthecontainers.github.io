@@ -203,6 +203,13 @@
 	"content": "   "
 },
 {
+	"uri": "https://riseofthecontainers.github.io/k8s-workloads/08-a-coming-soon/",
+	"title": "Topics coming soon...",
+	"tags": [],
+	"description": "",
+	"content": " ConfigMaps Secrets Namespaces Jobs DeamonSets Statefulsets Ingress Controller  "
+},
+{
 	"uri": "https://riseofthecontainers.github.io/docker/05-multistage/",
 	"title": "Multistage Builds",
 	"tags": [],
@@ -242,7 +249,14 @@
 	"title": "Credits",
 	"tags": [],
 	"description": "",
-	"content": "Thanks to ThoughtWorks for allowing to make this course available online. Contributors  Thanks to all colleagues at ThoughtWorks who worked with me while building this internal course. Special Thanks to Girish Verma, who worked hard with me in shaping this workshop to what we have today.\n Website  Gihub Pages for Hosting Hugo Theme Learn Hugo  "
+	"content": "Thanks to ThoughtWorks for allowing to make this course available online. Contributors  Thanks to all colleagues at ThoughtWorks who worked with me building this course. Special Thanks to Girish Verma, who contributed most in shaping up this course to what we have today.\n Website  Gihub Pages for Hosting Hugo Theme Learn Hugo  "
+},
+{
+	"uri": "https://riseofthecontainers.github.io/",
+	"title": "Rise of the Containers - ROTC",
+	"tags": [],
+	"description": "",
+	"content": "Welcome To learn magic of Kubernetes, you need to become magician. In this course we are going to learn Docker \u0026amp; Kubernetes. Most of the content is video tutorials and exercises. I highly recommend to do exercises and practice, to learn tech stuff hands-on is must.\nModules  Docker Kubernetes Objects \u0026amp; Workloads  "
 },
 {
 	"uri": "https://riseofthecontainers.github.io/tags/",
@@ -250,11 +264,4 @@
 	"tags": [],
 	"description": "",
 	"content": ""
-},
-{
-	"uri": "https://riseofthecontainers.github.io/",
-	"title": "Welcome to online learning couuse on Docker &amp; Kubernetes - Rise of the Containers - ROTC",
-	"tags": [],
-	"description": "",
-	"content": "Welcome To learn magic of Kubernetes, you need to become magician. In this course we are going to learn Docker \u0026amp; Kubernetes. Most of the content is video tutorials and exercises. I highly recommend to do exercises and practice, to learn tech stuff hands-on is must.\nModules  Docker Kubernetes Objects \u0026amp; Workloads  "
 }]

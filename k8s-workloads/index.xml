@@ -183,5 +183,14 @@
       <description>   </description>
     </item>
     
+    <item>
+      <title>Topics coming soon...</title>
+      <link>https://riseofthecontainers.github.io/k8s-workloads/08-a-coming-soon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://riseofthecontainers.github.io/k8s-workloads/08-a-coming-soon/</guid>
+      <description> ConfigMaps Secrets Namespaces Jobs DeamonSets Statefulsets Ingress Controller  </description>
+    </item>
+    
   </channel>
 </rss>

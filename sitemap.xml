@@ -119,6 +119,10 @@
   </url>
   
   <url>
+    <loc>https://riseofthecontainers.github.io/k8s-workloads/08-a-coming-soon/</loc>
+  </url>
+  
+  <url>
     <loc>https://riseofthecontainers.github.io/docker/05-multistage/</loc>
   </url>
   
@@ -143,11 +147,11 @@
   </url>
   
   <url>
-    <loc>https://riseofthecontainers.github.io/tags/</loc>
+    <loc>https://riseofthecontainers.github.io/</loc>
   </url>
   
   <url>
-    <loc>https://riseofthecontainers.github.io/</loc>
+    <loc>https://riseofthecontainers.github.io/tags/</loc>
   </url>
   
 </urlset>
